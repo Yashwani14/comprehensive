@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'compreh'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B232A0B2C2E74E91AC10CEA5CECD1530 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A8D1A6543A034CFEAA80B16E5EDEF40B }}
           package: '*.jar'
